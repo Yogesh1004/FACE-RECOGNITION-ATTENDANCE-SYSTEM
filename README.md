@@ -33,7 +33,8 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(31).png">
 
 ### When it Recognises me
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
+![WhatsApp Image 2024-04-29 at 16 44 02_99dcce49](https://github.com/user-attachments/assets/b91e0725-3c1c-4ce9-9530-eb6c4b71fbd8)
+
 
 ### While filling automatic attendance
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(38).png">
